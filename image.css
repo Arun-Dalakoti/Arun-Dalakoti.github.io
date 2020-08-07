@@ -1,0 +1,64 @@
+body { padding-top: 70px; }
+       .jumbotron {
+           color: #2c3e50;
+           background: #ecf0f1;
+       }
+       .navbar-inverse {
+          background: #2c3e50;
+          color: white;
+       }
+       .navbar-inverse .navbar-brand, .navbar-inverse a{
+         color:white;
+       }
+      .navbar-inverse .navbar-nav>li>a {
+        color: white;
+      } 
+      body{
+      	background: #ecebba;
+      }
+      .text{
+      	padding-left: 50px;
+      }
+      .jumbotron{
+      	background: #bfd6da;
+      }
+      .navs{
+      	background: #2c3e50;
+      }
+      h3{
+      	padding-left:10px;
+      }
+      h2{
+      	color:white;
+      }
+      .lower_nav{
+      	padding-left:30px;
+      }
+      .terms{
+        padding-left:30px;
+        padding-bottom:0px;
+      }
+      .privacy{
+        padding-left:30px;
+      }
+      .cookies{
+        padding-left:30px;
+        color:white;
+      }
+      .bottom_part{
+      	background-color:black;
+      	padding-top:20px;
+      	padding-bottom:20px;
+      }
+      .bottom_padding{
+      	padding-left:100px;
+      }
+      a[href="www.instagram.com"]{
+      	color:white;
+      }
+      a[href="www.facebook.com"]{
+      	color:white;
+      }
+      a[href="##"]{
+      	color:white;
+      }
